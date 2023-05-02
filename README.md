@@ -6,17 +6,17 @@ Models can be trained on the MNIST, FashionMNIST or Cifar10 dataset. </p>
 To train model:
 
 ```bash
-python train.py -m <name_of_model> -i <input_size> -c <channels> l <latent_size> -b <batch_size> -d <data_set> -ne <number_of_epochs> -lr <learning_rate> -rt <reconstruct_type>
+python train.py -m <model> -i <input_size> -c <channels> l <latent_size> -b <batch_size> -d <data_set> -ne <number_of_epochs> -lr <learning_rate> -rt <reconstruct_type>
 ```
 
 To load and use model for image generation:
 ```bash
-python img_generate.py -m <name_of_model>
+python img_generate.py -m <name_of_trained_model>
 ```
 
 To visualize latent space:
 ```bash
-python latent_space.py -m <name_of_model>
+python latent_space.py -m <name_of_trained_model>
 ```
 
 # References
