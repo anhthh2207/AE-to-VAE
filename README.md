@@ -1,6 +1,6 @@
 # VAE and AE with PyTorch
-This repository contains the code for the Variational Autoencoder and Autoencoder with PyTorch. </p>
-It can be used to train on the MNIST, FashionMNIST or Cifar10 dataset. </p>
+Variational Autoencoder and Autoencoder with PyTorch. </p>
+It can be trained on the MNIST, FashionMNIST or Cifar10 dataset. </p>
 # Usage
 
 To train model:
