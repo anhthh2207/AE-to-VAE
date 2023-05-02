@@ -20,10 +20,10 @@ python latent_space.py -m <name_of_model>
 ```
 
 # References
-[1] [Variational AutoEncoders (VAE) with PyTorch](https://avandekleut.github.io/vae/)
+[1] [Variational AutoEncoders (VAE) with PyTorch](https://avandekleut.github.io/vae/) </p>
 [2] [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 # Further Readings
-[1] [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
-[2] [Learning Structured Output Representation using Deep Conditional Generative Models](https://arxiv.org/abs/2201.09874)
+[1] [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) </p>
+[2] [Learning Structured Output Representation using Deep Conditional Generative Models](https://arxiv.org/abs/2201.09874) </p>
 [3] [Recurrent World Models Facilitate Policy Evolution](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
