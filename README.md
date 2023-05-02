@@ -25,5 +25,6 @@ python latent_space.py -m <name_of_trained_model>
 
 # Further Readings
 [1] [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) </p>
-[2] [Learning Structured Output Representation using Deep Conditional Generative Models](https://arxiv.org/abs/2201.09874) </p>
-[3] [Recurrent World Models Facilitate Policy Evolution](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
+[2] [β-Variational Autoencoder as an Entanglement Classifier](https://arxiv.org/abs/2004.14420)</p>
+[3] [Learning Structured Output Representation using Deep Conditional Generative Models](https://arxiv.org/abs/2201.09874) </p>
+[4] [Recurrent World Models Facilitate Policy Evolution](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)
